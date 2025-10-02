@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site – Teste</title>
+    <title>My New Hugo Site – </title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Teste on My New Hugo Site</description>
+    <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Oct 2025 15:18:32 -0300</lastBuildDate>
