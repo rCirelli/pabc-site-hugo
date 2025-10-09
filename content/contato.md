@@ -5,10 +5,12 @@ type: contact
 
 <div style="display:flex; justify-content:center;">
   <iframe
-    src="https://www.pointerabc.com.br"
+    id="autoScrollFrame"
+    src="https://contato.pointerabc.com.br/contato/iframe"
     title="Pointer ABC - Contato"
     width=900px
-    height=768px
-    style="display:block; border-radius:20px; margin:auto"
+    height=600px
+    scrolling=no
+    style="display:block; border-radius:20px; margin:auto; overflow:hidden"
   ></iframe>
 </div>

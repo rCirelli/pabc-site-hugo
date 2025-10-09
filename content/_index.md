@@ -1,9 +1,8 @@
 ---
 # title: "Welcome to Pointer ABC"
 description: "Your Trusted Source for Two-Way Radio Components and Accessories"
-cascade:
-  - type: "homepage"
-    layout: "homepage"
+type: "homepage"
+layout: "homepage"
 # sidebar:
 #   exclude: true
 toc: false

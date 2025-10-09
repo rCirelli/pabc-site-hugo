@@ -1,20 +1,34 @@
 ---
 title: Sobre a Pointer ABC
 type: about
+# sidebar:
+  # exclude: true
+toc: false
 ---
 
-## About Us
+<h2 class="text-center">Conectando Profissionais com Qualidade e Agilidade</h2>
 
-A Pointer ABC é uma importadora e distribuidora de componentes e acessórios genéricos para equipamentos de rádiocomunicação das principais marcas do mercado.
-Somos também revenda de rádios Hytera, Caltta, e Intelbras.
+Desde a sua fundação, há mais de 20 anos, a Pointer ABC se estabeleceu como uma parceira confiável e especializada no mercado de rádiocomunicação profissional. Nossa missão é garantir que a sua comunicação seja sempre eficiente e ininterrupta, fornecendo produtos de excelência.
 
-### Our Mission
-We aim to provide high-quality, reliable communication solutions for professionals.
+Nossa expertise em Acessórios e Componentes com um foco estratégico e um profundo conhecimento do setor, a Pointer ABC é líder na importação e distribuição de uma vasta gama de acessórios essenciais para seus equipamentos de rádio. Mantemos um estoque completo de itens compatíveis com as marcas de maior prestígio no mercado, incluindo Hytera, Motorola, e a clássica Vertex Standard.
 
-### Industries We Serve
-- Security & Law Enforcement
-- Construction & Engineering
-- Emergency Services
-- Logistics & Transportation
+*Nosso portfólio de produtos inclui:*
 
-We partner with leading manufacturers to bring the best products to our customers.
+- Baterias de alta durabilidade e performance.
+
+- Carregadores rápidos e confiáveis.
+
+- Antenas para otimizar o alcance e a clareza do sinal.
+
+- Fones e outros acessórios de áudio para comunicação discreta e eficiente.
+
+Além de sermos a sua principal fonte de acessórios, também atuamos como revenda autorizada de rádios profissionais das marcas líderes que representamos. Isso nos permite oferecer a solução completa: do equipamento de ponta aos acessórios de reposição.
+
+---
+
+### Agilidade que Move a Sua Operação  
+Em um mercado onde a comunicação é crítica, sabemos que o tempo é um fator decisivo. Por isso, a agilidade no atendimento é uma das maiores qualidades da Pointer ABC. Nossa equipe está preparada para responder às suas necessidades rapidamente, garantindo que você receba o suporte e os produtos que precisa no menor tempo possível.
+
+Pointer ABC: Mais de duas décadas de experiência, qualidade garantida nos acessórios e equipamentos, e a rapidez que sua comunicação profissional exige.
+
+Ficou com alguma dúvida ou gostaria de solicitar um orçamento? [Entre em contato conosco!](/contato)
