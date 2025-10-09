@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+.hextra-nav-container {
+  padding-top: 6px;
+  padding-bottom: 10px;
+}
+
+.hextra-nav-container-blur {
+  margin-top: -6px;
+}
+
+.hextra-custom-footer {
+  margin: auto;
+  width: 100%;
+  /* height: 400px; */
+}
