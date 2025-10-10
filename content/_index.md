@@ -1,6 +1,6 @@
 ---
 # title: "Welcome to Pointer ABC"
-description: "Your Trusted Source for Two-Way Radio Components and Accessories"
+description: "Seu fornecedor de peças, acessórios e equipamentos de radiocomunicação profissional"
 type: "homepage"
 layout: "homepage"
 # sidebar:
@@ -12,7 +12,7 @@ toc: false
 
 ## Bem Vindo à Pointer ABC
 
-Importação e distribuição de componentes, acessórios, e peças de reposição com qualidade e agilidade.
+Importação e distribuição de acessórios, componentes, e peças de reposição com qualidade e agilidade.
 
 {{< cards >}}
   {{< card link="produtos" title="Conheça nossos produtos" subtitle="Veja nossos principais produtos para seus rádios profissionais." >}}

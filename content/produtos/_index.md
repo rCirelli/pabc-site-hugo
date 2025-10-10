@@ -2,10 +2,29 @@
 title: Produtos
 cascade:
   type: blog
-# sidebar:
-  # exclude: true
-toc: false
+  toc: false
+  sidebar:
+    exclude: true
 ---
+
+<div class="custom-cards">
+  {{<cards cols="1">}}
+    {{<card
+      link="/produtos/baterias/nntn4970g/"
+      title="NNTN4970"
+      image="/images/products/placeholder.webp"
+      subtitle="Bateria generica para rádio &#10;EP450 / DEP450"
+      tag="Li-Ion"
+    >}}
+  
+    {{<card
+      link="/produtos/baterias/pabc9038"
+      title="PABC9038"
+      image="/images/products/placeholder.webp"
+      subtitle="Fone de ouvido em 'D' para radio EP450 / DEP450 / DEP250 / DTR620 / DTR720 / PD4 / PD5 / BD5 / RPD8 / VX80"
+    >}}
+  {{</cards>}}
+</div>
 
 
 - NNTN4970G
