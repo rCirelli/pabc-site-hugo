@@ -5,59 +5,258 @@ cascade:
   toc: false
   sidebar:
     exclude: true
+toc: true
+type: default
 ---
+
+## Baterias
 
 <div class="custom-cards">
   {{<cards cols="1">}}
     {{<card
-      link="/produtos/baterias/nntn4970g/"
+      link="/produtos/baterias/nntn4970g"
       title="NNTN4970"
       image="/images/products/placeholder.webp"
-      subtitle="Bateria generica para rádio &#10;EP450 / DEP450"
-      tag="Li-Ion"
-    >}}
-  
+      subtitle="Bateria generica para: EP450 / DEP450"
+      tag="Bateria Li-Ion"
+    >}}  
     {{<card
-      link="/produtos/baterias/pabc9038"
+      link="/produtos/baterias/pmmn4013k"
+      title="PMMN4013K"
+      image="/images/products/placeholder.webp"
+      subtitle="Bateria generica para DTR620"
+      tag="Bateria Li-Ion"
+    >}}  
+    {{<card
+      link="/produtos/baterias/bl1504g"
+      title="BL1504G"
+      image="/images/products/placeholder.webp"
+      subtitle="Bateria generica para: PD406 / PD506"
+      tag="Bateria Li-Ion"
+    >}}  
+    {{<card
+      link="/produtos/baterias/pmnn4409g"
+      title="PMNN4409G"
+      image="/images/products/placeholder.webp"
+      subtitle="Bateria generica para: DEP550 / DEP570 / DGP5050 / &#10;DGP5550 / DGP8050 / DGP8550 / APX900"
+      tag="Bateria Li-Ion"
+    >}}  
+    {{<card
+      link="/produtos/baterias/pmnn4066g"
+      title="PMNN4066G"
+      image="/images/products/placeholder.webp"
+      subtitle="Bateria generica para: DGP4150 / DGP6150"
+      tag="Bateria Li-Ion"
+    >}}  
+    {{<card
+      link="/produtos/baterias/fnb106g"
+      title="FNB106G"
+      image="/images/products/placeholder.webp"
+      subtitle="Bateria generica para VX231 &#10;(para carregador CD47/VAC20)"
+      tag="Bateria Ni-Mh"
+    >}}  
+    {{<card
+      link="/produtos/baterias/bl2006g"
+      title="BL2006G"
+      image="/images/products/placeholder.webp"
+      subtitle="Bateria generica para: PD706 / PD786"
+      tag="Bateria Ni-Mh"
+    >}}  
+    {{<card
+      link="/produtos/baterias/pmnn4578g"
+      title="PMNN4578G"
+      image="/images/products/placeholder.webp"
+      subtitle="Bateria generica para DTR720"
+      tag="Bateria Ni-Mh"
+    >}}  
+  {{</cards>}}
+</div>
+
+## Fones de Ouvido
+
+<div class="custom-cards">
+  {{<cards cols="1">}}
+    {{<card
+      link="/produtos/fones/pabc9038"
       title="PABC9038"
       image="/images/products/placeholder.webp"
-      subtitle="Fone de ouvido em 'D' para radio EP450 / DEP450 / DEP250 / DTR620 / DTR720 / PD4 / PD5 / BD5 / RPD8 / VX80"
+      subtitle="Fone de ouvido em 'D' para: &#10;EP450 / DEP450 / DEP250 / DTR620 / DTR720 / &#10;R2 / VX80 / PD4 / PD5 / BD5 / RPD8"
+      tag="Fone tipo 'D'"
+    >}}
+    {{<card
+      link="/produtos/fones/rln6230g"
+      title="RLN6230G"
+      image="/images/products/placeholder.webp"
+      subtitle="Fone de ouvido em 'D' para: &#10;EP450 / DEP450 / DEP250 / DTR620 / DTR720 / &#10;R2 / VX80 / PD4 / PD5 / BD5 / RPD8"
+      tag="Fone tipo 'D'"
+    >}}
+    {{<card
+      link="/produtos/fones/ehm15cg"
+      title="EHM15CG"
+      image="/images/products/placeholder.webp"
+      subtitle="Fone de ouvido em 'D' com parafuso para: &#10;BD5 / PD4 / PD5 / RPD8"
+      tag="Fone tipo 'D'"
+    >}}
+    {{<card
+      link="/produtos/fones/vx101g"
+      title="VX101G"
+      image="/images/products/placeholder.webp"
+      subtitle="Fone de ouvido em 'D' para: &#10;VX231 / VX261 / EVX261 / EVX531"
+      tag="Fone tipo 'D'"
+    >}}
+    {{<card
+      link="/produtos/fones/ehs12g"
+      title="EHS12G"
+      image="/images/products/placeholder.webp"
+      subtitle="Fone de ouvido em 'D' para: &#10;PD3 / BD306"
+      tag="Fone tipo 'D'"
     >}}
   {{</cards>}}
 </div>
 
+## Componentes
 
-- NNTN4970G
-- PABC9038
-- 3680529Z01G/3680530Z02G (knob de canal/volume)
-- NAE6483G (antena p/ EP450/DEP450/PRO5150)
-- 1880619Z06G (potenciometro EP450/DEP450/PRO5150)
-- 4070354A01K (chave interna do PTT do EP/DEP450/DEP250/DTR620/EP150/PRO7150)
-- 13012040001G (trava da tecla do PTT DEP450)
-- 32012231001G (tecla de borracha do PTT DEP450)
-- 15012242001G (protetor do conector de acessórios do DEP450)
-- PMLN6345G (caixa frontal do DEP450)
-- 0186638Z03K (alto falante p EP/DEP450)
-- 38012042001G (protetor do micro USB do DEP450)
-- 3886441Z02G (protetor do conector de acessórios do EP450)
-- PMMN4013K (microfone remoto p/ EP/DEP450)
-- WPLN4137G (base do carregador do EP450/DEP/R2)
-- EPNN9356G (fonte bivolt do EP/DEP450/DEP250/DEP550/DGP/PRO)
-- RMN5052G (microfone de mão p/ DGM5000/8000/4100/6100/MTM5000/APX2500)
-- PMMN4013K (bateria de Li-Ion para DTR620)
-- BL1504G (bateria de Li-Ion para PD406/506)
-- PMNN4409G (bateria de Li-Ion para DEP550/570 DGP5050/5550/8050/8550/APX900)
-- MOTD3200-RT (fone de ouvido em D p/ EP/DEP450/DEP250/PD5/PD4/BD5/VX80)
-- HMN3596G (microfone de mão p/ DEM300/DEM400/GM/EM/PRO)
-- RLN5644G (clip de cinto para EP/DEP450)
-- RLN5644K (bateria de Li-Ion para DEP550/570/DGP5050/55/8050/8550/APX900)
-- EHM15CG (fone de ouvido em D c/ parafuso p/ BD5/PD4/PD5/RPD8)
-- PMNN4066G (bateria de Li-Ion p DGP4150/6150)
-- RLN6230G (fone de tubo acustico p/ EP/DEP450/DTR620/720/PD5/PD4/BD5/VX80/R2)
-- FNB106G (bateria de Ni-Mh para VX231 (CD47/VAC20))
-- VX101-G (fone de ouvido em D p/ VX231/261/EVX261/EVX531)
-- BL2006G (bateria de Li-Ion para PD706/786)
-- PMNN4578G (bateria de Li-Ion para DTR720)
-- EHS12G (fone de ouvido em D p PD3/BD306)
-- AN0435W09G (antena whip UHF para PD4/5/7/BD506/RPD8/HP6)
+<div class="custom-cards">
+  {{<cards cols="1">}}
+    {{<card
+      link="/produtos/componentes/3680530z02g"
+      title="3680530Z02G"
+      image="/images/products/placeholder.webp"
+      subtitle="Knob de Canal para: EP450 / DEP450 / PRO5150"
+      tag="Componentes"
+    >}}
+    {{<card
+      link="/produtos/componentes/3680529z01g"
+      title="3680529Z01G"
+      image="/images/products/placeholder.webp"
+      subtitle="Knob de Volume para: EP450 / DEP450 / PRO5150"
+      tag="Componentes"
+    >}}
+    {{<card
+      link="/produtos/componentes/1880619z06g"
+      title="1880619Z06G"
+      image="/images/products/placeholder.webp"
+      subtitle="Potenciometro para: EP450 / DEP450 / PRO5150"
+      tag="Componentes"
+    >}}
+    {{<card
+      link="/produtos/componentes/4070354a01k"
+      title="4070354A01K"
+      image="/images/products/placeholder.webp"
+      subtitle="Chave interna do PTT para: EP450 / DEP450 / DEP250 / &#10;DTR620 / EP150 / PRO7150"
+      tag="Componentes"
+    >}}
+    {{<card
+      link="/produtos/componentes/13012040001g"
+      title="13012040001G"
+      image="/images/products/placeholder.webp"
+      subtitle="Trava da tecla do PTT para DEP450"
+      tag="Componentes"
+    >}}
+    {{<card
+      link="/produtos/componentes/32012231001g"
+      title="32012231001G"
+      image="/images/products/placeholder.webp"
+      subtitle="Tecla de borracha do PTT para DEP450"
+      tag="Componentes"
+    >}}
+    {{<card
+      link="/produtos/componentes/15012242001g"
+      title="15012242001G"
+      image="/images/products/placeholder.webp"
+      subtitle="Protetor do conector de acessórios para DEP450"
+      tag="Componentes"
+    >}}
+    {{<card
+      link="/produtos/componentes/pmln6345g"
+      title="PMLN6345G"
+      image="/images/products/placeholder.webp"
+      subtitle="Caixa frontal para DEP450"
+      tag="Componentes"
+    >}}
+    {{<card
+      link="/produtos/componentes/0186638z03k"
+      title="0186638Z03K"
+      image="/images/products/placeholder.webp"
+      subtitle="Alto falante para: EP450 / DEP450"
+      tag="Componentes"
+    >}}
+    {{<card
+      link="/produtos/componentes/38012042001g"
+      title="38012042001G"
+      image="/images/products/placeholder.webp"
+      subtitle="Protedor do conector micro USB para DEP450"
+      tag="Componentes"
+    >}}
+    {{<card
+      link="/produtos/componentes/3886441z02g"
+      title="3886441Z02G"
+      image="/images/products/placeholder.webp"
+      subtitle="Protetor do conector de acessórios para EP450"
+      tag="Componentes"
+    >}}
+  {{</cards>}}
+</div>
 
+## Acessórios
+
+<div class="custom-cards">
+  {{<cards cols="1">}}
+    {{<card
+      link="/produtos/acessorios/nae6483g"
+      title="NAE6483G"
+      image="/images/products/placeholder.webp"
+      subtitle="Antena whip UHF (400-470mhz) para: &#10;EP450 / DEP450 / PRO3150 / PRO5150"
+      tag="Antena Whip UHF"
+    >}}
+    {{<card
+      link="/produtos/acessorios/pmmn4013k"
+      title="PMMN4013K"
+      image="/images/products/placeholder.webp"
+      subtitle="Microfone remoto para: EP450 / DEP450"
+      tag="Microfone Remoto"
+    >}}
+    {{<card
+      link="/produtos/acessorios/wpln4137g"
+      title="WPLN4137G"
+      image="/images/products/placeholder.webp"
+      subtitle="Base do carregador para: EP450 / DEP450 / R2"
+      tag="Base do Carregador"
+    >}}
+    {{<card
+      link="/produtos/acessorios/epnn9356g"
+      title="EPNN9356G"
+      image="/images/products/placeholder.webp"
+      subtitle="Fonte bivolt para: EP450 / DEP450 / DEP250 / &#10;DEP550 / Linha DGP / Linha PRO"
+      tag="Base do Carregador"
+    >}}
+    {{<card
+      link="/produtos/acessorios/rmn5052g"
+      title="RMN5052G"
+      image="/images/products/placeholder.webp"
+      subtitle="Microfone de mão para: DGM5000 / DGM8000 / &#10;DGM4100 / DGM6100 / MTM5000 / APX2500"
+      tag="Base do Carregador"
+    >}}
+    {{<card
+      link="/produtos/acessorios/hmn3596g"
+      title="HMN3596G"
+      image="/images/products/placeholder.webp"
+      subtitle="Microfone de mão para: DEM300 / DEM400 / GM / EM / PRO"
+      tag="Base do Carregador"
+    >}}
+    {{<card
+      link="/produtos/acessorios/rln5644g"
+      title="RLN5644G"
+      image="/images/products/placeholder.webp"
+      subtitle="Clip de cinto para: EP450 / DEP450"
+      tag="Base do Carregador"
+    >}}
+    {{<card
+      link="/produtos/acessorios/an0435w09g"
+      title="AN0435W09G"
+      image="/images/products/placeholder.webp"
+      subtitle="Antena whip UHF para: PD4 / &#10;PD5 / PD7 / BD506 / RPD8 / HP6"
+      tag="Base do Carregador"
+    >}}
+  {{</cards>}}
+</div>

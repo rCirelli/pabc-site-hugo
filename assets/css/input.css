@@ -12,7 +12,6 @@
 .hextra-custom-footer {
   margin: auto;
   width: 100%;
-  /* height: 400px; */
 }
 
 .hextra-card-subtitle {
@@ -21,8 +20,8 @@
 
 .custom-cards .hextra-card {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(5, 1fr);
+  grid-template-columns: repeat(2, 150px) 1fr;
+  grid-template-rows: 62px 188px;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
 }
@@ -36,10 +35,16 @@
 
 .custom-cards .hextra-card-icon {
   font-size: x-large;
-  grid-area: 2 / 3 / 3 / 6;
+  grid-area: 1 / 3 / 2 / 4;
 }
 
 .custom-cards .hextra-card-subtitle {
-  font-size: x-large;
-  grid-area: 1 / 3 / 2 / 5;
+  font-size: large;
+  grid-area: 2 / 3 / 3 / 4;
+}
+
+.custom-cards .hextra-badge {
+  grid-area: 1 / 2 / 2 / 3;
+  margin: auto;
+  height: 85%;
 }
