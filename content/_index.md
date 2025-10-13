@@ -1,8 +1,7 @@
 ---
-# title: "Welcome to Pointer ABC"
 description: "Seu fornecedor de peças, acessórios e equipamentos de radiocomunicação profissional"
-type: "homepage"
-layout: "homepage"
+type: homepage
+layout: homepage
 # sidebar:
 #   exclude: true
 toc: false

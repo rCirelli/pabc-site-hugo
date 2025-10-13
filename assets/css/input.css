@@ -14,10 +14,6 @@
   width: 100%;
 }
 
-.hextra-card-subtitle {
-  white-space: pre;
-}
-
 .custom-cards .hextra-card {
   display: grid;
   grid-template-columns: repeat(2, 150px) 1fr;

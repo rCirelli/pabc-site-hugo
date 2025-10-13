@@ -9,6 +9,15 @@ toc: true
 type: default
 ---
 
+
+<p class="text-[1.79rem] font-semibold mb-[-2rem] pt-4">Conheça alguns dos nossos produtos.</p>
+
+***
+
+Contamos com inúmeros outros produtos não listados nesse site, para mais informações [entre em contato.](/contato)
+<br>
+Nossa equipe está sempre de prontidão para lhe atender!
+
 ## Baterias
 
 <div class="custom-cards">
@@ -228,35 +237,35 @@ type: default
       title="EPNN9356G"
       image="/images/products/placeholder.webp"
       subtitle="Fonte bivolt para: EP450 / DEP450 / DEP250 / &#10;DEP550 / Linha DGP / Linha PRO"
-      tag="Base do Carregador"
+      tag="Fonte de alimentação"
     >}}
     {{<card
       link="/produtos/acessorios/rmn5052g"
       title="RMN5052G"
       image="/images/products/placeholder.webp"
       subtitle="Microfone de mão para: DGM5000 / DGM8000 / &#10;DGM4100 / DGM6100 / MTM5000 / APX2500"
-      tag="Base do Carregador"
+      tag="Microfone de mão"
     >}}
     {{<card
       link="/produtos/acessorios/hmn3596g"
       title="HMN3596G"
       image="/images/products/placeholder.webp"
       subtitle="Microfone de mão para: DEM300 / DEM400 / GM / EM / PRO"
-      tag="Base do Carregador"
+      tag="Microfone de mão"
     >}}
     {{<card
       link="/produtos/acessorios/rln5644g"
       title="RLN5644G"
       image="/images/products/placeholder.webp"
       subtitle="Clip de cinto para: EP450 / DEP450"
-      tag="Base do Carregador"
+      tag="Clip de cinto"
     >}}
     {{<card
       link="/produtos/acessorios/an0435w09g"
       title="AN0435W09G"
       image="/images/products/placeholder.webp"
       subtitle="Antena whip UHF para: PD4 / &#10;PD5 / PD7 / BD506 / RPD8 / HP6"
-      tag="Base do Carregador"
+      tag="Antena Whip UHF"
     >}}
   {{</cards>}}
 </div>
