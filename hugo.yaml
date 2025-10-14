@@ -81,8 +81,8 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: images/logo.png
-      dark: images/logo-dark.png
+      path: images/logo/logo.png
+      dark: images/logo/logo-dark.png
       width: 200
       # height: 20
       # link: /
