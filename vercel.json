@@ -1,8 +1,8 @@
 {
-  "build": {
-    "env": {
-      "HUGO_VERSION": "0.150.1",
-      "HUGO_EXTENDED": "true"
-    }
+  "buildCommand": "go version || (curl -sSL https://golang.org/dl/go1.22.3.linux-amd64.tar.gz | tar -C /tmp -xzf - && export PATH=$PATH:/tmp/go/bin && hugo --gc --minify)",
+  "env": {
+    "HUGO_VERSION": "0.150.1",
+    "HUGO_EXTENDED": "true",
+    "PATH": "/tmp/go/bin:$PATH"
   }
 }
