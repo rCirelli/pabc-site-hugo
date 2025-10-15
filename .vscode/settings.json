@@ -1,0 +1,10 @@
+{
+  "debug.javascript.defaultRuntimeExecutable": {
+    "pwa-node": "/home/cirelli/.local/share/mise/shims/node"
+  },
+  "python.defaultInterpreterPath": "/home/cirelli/.local/share/mise/installs/python/3.13.7/bin/python",
+  "go.goroot": "/home/cirelli/.local/share/mise/installs/go/1.25.1",
+  "go.alternateTools": {
+    "go": "/home/cirelli/.local/share/mise/shims/go"
+  }
+}
