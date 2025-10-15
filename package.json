@@ -4,7 +4,8 @@
   "description": "",
   "main": "postcss.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx @tailwindcss/cli -i ./assets/css/input.css -o ./assets/css/custom.css && hugo build --cleanDestinationDir --gc --minify --printI18nWarnings --buildDrafts"
   },
   "repository": {
     "type": "git",
