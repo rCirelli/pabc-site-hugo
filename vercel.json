@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npx npm run build",
+  "buildCommand": "npm run build",
   "env": {
     "HUGO_VERSION": "0.150.1",
     "HUGO_EXTENDED": "true"
