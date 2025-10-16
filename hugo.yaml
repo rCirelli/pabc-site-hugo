@@ -97,7 +97,7 @@ params:
     displayToggle: true
 
   customCSS:
-    - "/css/custom.css"
+    - "css/custom.css"
 
   footer:
     enable: true

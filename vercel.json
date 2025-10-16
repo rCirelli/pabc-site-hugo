@@ -1,15 +1,8 @@
 {
-  "buildCommand": "curl -sSL https://dl.google.com/go/go1.22.3.linux-amd64.tar.gz | tar -C /tmp -xzf - && PATH=$PATH:/tmp/go/bin hugo --gc --minify",
+  "buildCommand": "npx npm run build",
   "env": {
     "HUGO_VERSION": "0.150.1",
     "HUGO_EXTENDED": "true"
   },
-  "framework": "hugo",
-  "installCommand": "",
-  "build": {
-    "env": {
-      "HUGO_VERSION": "0.150.1",
-      "HUGO_EXTENDED": "true"
-    }
-  }
+  "framework": "hugo"
 }
