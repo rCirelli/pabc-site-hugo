@@ -5,5 +5,11 @@
     "HUGO_EXTENDED": "true"
   },
   "framework": "hugo",
-  "installCommand": ""
+  "installCommand": "",
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.150.1",
+      "HUGO_EXTENDED": "true"
+    }
+  }
 }

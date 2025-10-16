@@ -96,6 +96,9 @@ params:
     default: system
     displayToggle: true
 
+  customCSS:
+    - "/css/custom.css"
+
   footer:
     enable: true
     displayCopyright: false
