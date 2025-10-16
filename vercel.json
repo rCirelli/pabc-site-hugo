@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "curl -sSL https://dl.google.com/go/go1.22.3.linux-amd64.tar.gz | tar -C /tmp -xzf - && export PATH=$PATH:/tmp/go/bin && npm run build",
   "env": {
     "HUGO_VERSION": "0.150.1",
     "HUGO_EXTENDED": "true"
