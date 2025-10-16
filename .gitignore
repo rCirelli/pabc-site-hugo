@@ -1,6 +1,6 @@
 node_modules
 package-lock.json
-_vendor/
+# _vendor/
 
 #remove before publishing
 public/
