@@ -8,7 +8,8 @@
     "dev": "concurrently \"npm run tailwind:watch\" \"npm run hugo:server\"",
     "tailwind:build": "npx tailwindcss -i ./assets/css/input.css -o ./assets/css/custom.css --minify",
     "build": "npm run tailwind:build && hugo --gc --minify",
-    "clean": "rm -rf public && rm -f assets/css/custom.css"
+    "clean": "rm -rf public && rm -f assets/css/custom.css",
+    "vendor": "hugo mod vendor"
   },
   "repository": {
     "type": "git",
