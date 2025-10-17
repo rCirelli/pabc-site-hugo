@@ -1,15 +1,22 @@
-copyright: "© 2025 Pointer ABC Comercio, Importação e Exportação de Equipamentos Eletronicos Ltda."
-backToTop: "Voltar para cima"
-# changeLanguage: "Change language"
-changeTheme: "Mudar Tema"
-# copyCode: "Copy code"
-dark: "Tema escuro"
-# editThisPage: "Edit this page on GitHub →"
-lastUpdated: "Atualizado em"
-light: "Tema claro"
-system: "Sistema"
-noResultsFound: "Nenhum resultado encontrado"
-onThisPage: "Nesta Página"
-# poweredBy: "Powered by Hextra"
-readMore: "Ler mais →"
-searchPlaceholder: "Buscar..."
+copyright:
+  other: "© 2025 Pointer ABC Comercio, Importação e Exportação de Equipamentos Eletronicos Ltda."
+backToTop:
+  other: "Voltar para cima"
+changeTheme:
+  other: "Mudar Tema"
+dark:
+  other: "Tema escuro"
+lastUpdated:
+  other: "Atualizado em"
+light:
+  other: "Tema claro"
+system:
+  other: "Sistema"
+noResultsFound:
+  other: "Nenhum resultado encontrado"
+onThisPage:
+  other: "Nesta Página"
+readMore:
+  other: "Ler mais →"
+searchPlaceholder:
+  other: "Buscar..."

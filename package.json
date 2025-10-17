@@ -4,7 +4,12 @@
   "description": "",
   "main": "postcss.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tailwind:watch": "npx tailwindcss -i ./assets/css/input.css -o ./assets/css/custom.css --minify --watch",
+    "hugo:server": "hugo server --buildDrafts --disableFastRender --cleanDestinationDir --gc --minify --logLevel info",
+    "dev": "concurrently \"npm run tailwind:watch\" \"npm run hugo:server\"",
+    "tailwind:build": "npx tailwindcss -i ./assets/css/input.css -o ./assets/css/custom.css --minify",
+    "build": "npm run tailwind:build && hugo --gc --minify",
+    "clean": "rm -rf public && rm -f assets/css/custom.css"
   },
   "repository": {
     "type": "git",
@@ -20,6 +25,7 @@
   "homepage": "https://github.com/rCirelli/pabc-site-hugo#readme",
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.14",
+    "concurrently": "^9.2.1",
     "tailwindcss": "^4.1.14"
   }
 }

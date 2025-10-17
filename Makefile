@@ -22,7 +22,7 @@ site:		## hugo compile build
 
 css:		## compile Tailwind CSS
 	@npx @tailwindcss/cli \
-		-i ./assets/css/input.css  \
+		-i ./assets/css/input.css \
 		-o ./assets/css/custom.css
 
 run-css:	## run & watch Tailwind CSS compiler
