@@ -2,7 +2,6 @@
   "name": "pabc-site-hugo",
   "version": "1.0.0",
   "description": "",
-  "main": "postcss.config.js",
   "scripts": {
     "tailwind:watch": "npx tailwindcss -i ./assets/css/input.css -o ./assets/css/custom.css --minify --watch",
     "hugo:server": "hugo server --buildDrafts --disableFastRender --cleanDestinationDir --gc --minify --logLevel info",

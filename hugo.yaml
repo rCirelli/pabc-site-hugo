@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: http://teste.pointerabc.com.br/
 languageCode: pt-br
 title: Pointer ABC
 
@@ -20,6 +20,8 @@ module:
     # source: node_modules/github.com/imfing/hextra/assets
     # target: assets/hextra
 
+defaultContentLanguage: pt-br
+
 build:
   # useResourceCacheWhen: always
   writeStats: true
@@ -39,8 +41,6 @@ markup:
   # enable hextra syntax highlight
   highlight:
     noClasses: false
-
-  defaultContentLanguage: pt-br
 
 menu:
   main:
