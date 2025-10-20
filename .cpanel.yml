@@ -1,25 +1,9 @@
 
 ---
-# .cpanel.yml - Placed in the root of your Hugo project
-
-# Defines the type of deployment. "manual" deployment
-# is used when you want a custom script to run.
 deployment:
   tasks:
     # 1. Clear any previous build artifacts in the source directory's public folder
     - export DEPLOYPATH=/home4/therac29/public_html/HUGO_SITES/POINTER_ABC/public
-    - touch ../TEST.txt
-    - /bin/echo "Test deployment ran successfully."
-    - rm -rf public/*
-
-    # 2. RUN THE HUGO BUILD COMMAND
-    # This command reads your source files and generates the static site
-    # into the 'public/' directory inside the repository.
-    # NOTE: You may need to change 'hugo' to the full path of the executable
-    # (e.g., /usr/local/bin/hugo) if it fails.
-    - /usr/local/bin/hugo || /usr/bin/hugo    
-
-    # 3. Copy the built files to the live web directory
-    # -a: archive mode (preserves permissions)
-    # --delete: removes files in the destination (public_html) that are not in the source (public/)
+    # - rm -rf ../public
+    # - mkdir ../public
     - /usr/bin/rsync -avz --delete public/ $DEPLOYPATH/
