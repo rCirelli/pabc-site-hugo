@@ -8,7 +8,9 @@ deployment:
   tasks:
     # 1. Clear any previous build artifacts in the source directory's public folder
     - export DEPLOYPATH=/home4/therac29/public_html/HUGO_SITES/POINTER_ABC/public
-    - rm -rf public/*    
+    - touch ../TEST.txt
+    - /bin/echo "Test deployment ran successfully."
+    - rm -rf public/*
 
     # 2. RUN THE HUGO BUILD COMMAND
     # This command reads your source files and generates the static site
