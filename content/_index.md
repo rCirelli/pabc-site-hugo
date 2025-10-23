@@ -14,7 +14,7 @@ toc: false
 Importação e distribuição de acessórios, componentes, e peças de reposição com qualidade e agilidade.
 
 {{< cards >}}
-  {{< card link="produtos" title="Conheça nossos produtos" subtitle="Veja nossos principais produtos para seus rádios profissionais." >}}
   {{< card link="empresa" title="Sobre a Pointer ABC" subtitle="Conheça mais sobre nossa empresa." >}}
+  {{< card link="produtos" title="Conheça nossos produtos" subtitle="Veja nossos principais produtos para seus rádios profissionais." >}}
   {{< card link="contato" title="Contate-nos" subtitle="Para saber mais sobre nossos produtos e inicarmos uma parceria de sucesso!" >}}
 {{< /cards >}}

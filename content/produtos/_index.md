@@ -1,12 +1,13 @@
 ---
 title: Produtos
 cascade:
-  # breadcrumbs: false
-  type: blog
+  breadcrumbs: true
+  type: list
   toc: false
   sidebar:
     exclude: true
 toc: true
+breadcrumbs: false
 type: default
 ---
 
@@ -82,7 +83,7 @@ Nossa equipe está sempre de prontidão para lhe atender!
       tag="Bateria Ni-Mh"
     >}}  
   {{</cards>}}
-</div>
+</div><br>
 
 ## Fones de Ouvido
 
@@ -124,7 +125,7 @@ Nossa equipe está sempre de prontidão para lhe atender!
       tag="Fone tipo 'D'"
     >}}
   {{</cards>}}
-</div>
+</div><br>
 
 ## Componentes
 
@@ -208,7 +209,7 @@ Nossa equipe está sempre de prontidão para lhe atender!
       tag="Componentes"
     >}}
   {{</cards>}}
-</div>
+</div><br>
 
 ## Acessórios
 
@@ -271,7 +272,7 @@ Nossa equipe está sempre de prontidão para lhe atender!
       tag="Antena Whip UHF"
     >}}
   {{</cards>}}
-</div>
+</div><br>
 
 ---
 

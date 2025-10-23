@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" dir="{{ .Site.Language.LanguageDirection | default `ltr` }}">
+  {{- partial "head.html" . -}}
+  <body>
+    {{- partial "banner.html" . -}}
+
+    {{ $hideNavbar := or (eq .Layout "maintenance") .Params.disable_navbar }}
+    {{ $hideFooter := or (eq .Layout "maintenance") .Params.disable_footer }}
+
+    {{ if not $hideNavbar }}
+        {{- partial "navbar.html" . -}}
+    {{ end }}
+
+    {{- block "main" . }}{{ end -}}
+    {{- if or (eq .Site.Params.footer.enable nil) (.Site.Params.footer.enable) }}
+      {{ if not $hideFooter }}
+        {{ partial "footer.html" . }}
+      {{ end }}
+    {{ end }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

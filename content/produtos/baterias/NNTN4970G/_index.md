@@ -1,6 +1,6 @@
 ---
 title: NNTN4970G
-type: single
+# type: list
 ---
 
 
