@@ -7,6 +7,8 @@ layout: homepage
 toc: false
 ---
 
+<!-- {{< redirect "/manutencao/" >}} -->
+
 ![hero_1](/images/light_hero_3_alt.webp)
 
 ## Bem Vindo à Pointer ABC

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <meta http-equiv="refresh" content="0; url={{ .Get 0 }}">
+  <link rel="canonical" href="{{ .Get 0 }}">
+</head>
+<body>
+  <a href="{{ .Get 0 }}">{{ .Get 0 }}</a>
+</body>
+</html>
